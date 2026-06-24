@@ -1,5 +1,3 @@
-Atividade referente ao módulo 13 do curso de cientista de dados da EBAC
-
 # Projeto de Análise de Dados – Supermercado Chile 🇨🇱
 
 Neste projeto foram aplicados conceitos fundamentais de Ciência de Dados utilizando Python, Pandas, Matplotlib, Seaborn e Plotly.
